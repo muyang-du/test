@@ -1,3 +1,4 @@
 DFA
+DFAJJA
 # test
 fajl
